@@ -1,1 +1,9 @@
 Automation Challenge
+
+All the dependencies needed to run the repo is included. Do the steps below to run
+
+  1: Clone repo to local
+  2: run mvn install command from the maven section
+  3: refresh maven dependencies
+  4: run mvn verify command
+  5: in order to see the report, go to target/site/serenity and open the index.html in chrome browser
