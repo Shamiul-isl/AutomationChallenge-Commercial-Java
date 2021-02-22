@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Feature to validate creating a new account" skipped="0" tests="2" time="91.03" timestamp="2021-02-21 09:40:50"><testcase name="User is able to enter their own information and create a new account"/><testcase name="Users should be able to login with their information"><error message="Timed out after 2 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sams-MacBook-Air.local', ip: 'fe80:0:0:0:1053:e236:b84d:6c1c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.6'
+Driver info: driver.version: unknown
+QAChallengeCommercialJava@1.0-SNAPSHOT/acceptancetests.pages.HomePage.verifyLogin(HomePage.java:66)
+QAChallengeCommercialJava@1.0-SNAPSHOT/acceptancetests.steps.UserRegistrationSteps.userShouldSeeAnAccountSectionOnTheTopRightOfThePageThatSaysFollowedByTheirFirstName(UserRegistrationSteps.java:82)
+✽.User should see an account section on the top right of the page that says "HI " followed by their firstName(file:///Users/sam/IdeaProjects/QAChallengeCommercialJava/src/test/resources/features/registration/userRegistration.feature:18)
+</system-err></testcase></testsuite>
