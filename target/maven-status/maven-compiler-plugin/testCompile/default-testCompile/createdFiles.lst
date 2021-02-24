@@ -1,0 +1,6 @@
+acceptancetests/pages/RegistrationFormPage.class
+acceptancetests/pages/LoginPage.class
+acceptancetests/testdata/MetadataGeneration.class
+acceptancetests/runners/UserRegistrationTest.class
+acceptancetests/steps/UserRegistrationSteps.class
+acceptancetests/pages/HomePage.class

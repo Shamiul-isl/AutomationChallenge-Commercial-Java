@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Feature to validate creating a new account","User is able to enter their own information and create a new account","SUCCESS","2021-02-21T22:01:53.769469-05:00[America/New_York]","0.0","49.38"
+"Feature to validate creating a new account","Users should be able to login with their information","SUCCESS","2021-02-21T22:02:43.54301-05:00[America/New_York]","0.0","28.2"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Feature to validate creating a new account" skipped="0" tests="2" time="77.58" timestamp="2021-02-21 10:01:53"><testcase name="User is able to enter their own information and create a new account"/><testcase name="Users should be able to login with their information"/></testsuite>
